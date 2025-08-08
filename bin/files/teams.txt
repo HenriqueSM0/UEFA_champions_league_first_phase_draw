@@ -1,0 +1,36 @@
+Real Madrid,Spain
+Manchester City,England
+Bayern M,Germany
+Paris Saint-Germain,France
+Liverpool,England
+Inter Milan,Italy
+Borussia Dortmund,Germany
+RB Leipzig,Germany
+Barcelona,Spain
+Bayer Leverkusen,Germany
+Atlético Madrid,Spain
+Atalanta,Italy
+Juventus,Italy
+Benfica,Portugal
+Arsenal,England
+Club Brugge,Belgium
+Shakhtar Donetsk,Ukraine
+AC Milan,Italy
+Feyenoord,Netherlands
+Sporting CP,Portugal
+PSV Eindhoven,Netherlands
+Dinamo Zagreb,Croatia
+Red Bull Salzburg,Austria
+Lille,France
+Estrela Vermelha,Serbia
+Young Boys,Switzerland
+Celtic,Scotland
+Slovan Bratislava,Slovakia
+Monaco,France
+Sparta Praga,Czechia
+Aston Villa,England
+Bologna,Italy
+Girona,Spain
+Stuttgart,Germany
+Sturm Graz,Austria
+Brest,France
