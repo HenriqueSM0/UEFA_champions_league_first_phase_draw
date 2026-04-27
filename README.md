@@ -29,7 +29,7 @@ After the simulation, each team will receive its opponents list, with **Home (H)
 ## 🛠️ Technologies Used
 
 - JAVA SE 23
-- 
+- Swing
 - File handling (`.txt` input)
 
 ---
@@ -43,8 +43,8 @@ Teams list (`teams.txt`) → pots creation → draw simulation → opponents lis
 ## 📂 Folder / File Structure
 
 - `teams.txt` → File where you insert the teams (in ranking order)
-- `main.py` → File to run the simulator
-- GUI classes (`Window_1`) → Responsible for the draw interface and simulation
+- `Window_1.java` → File to run the simulator
+-  Other classes → Responsible for the draw interface and simulation
 
 ---
 
