@@ -1,6 +1,6 @@
 # ⚽ UEFA Champions League Draw Simulator
 
-A Python project that allows you to simulate the **UEFA Champions League League Phase Draw**, generating opponents for each club in a realistic and organized way. The simulation uses team ranking order to create the pots and then performs the draw automatically.
+A JAVA project that allows you to simulate the **UEFA Champions League League Phase Draw**, generating opponents for each club in a realistic and organized way. The simulation uses team ranking order to create the pots and then performs the draw automatically.
 
 Perfect for football fans who want to simulate the biggest club competition in the world! 🌍🔥
 
